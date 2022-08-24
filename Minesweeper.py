@@ -1,8 +1,7 @@
 """
-Student: Omri Leizerovitch
-ID: 316542166
-Assignment : no. 6
-Program: minesweeper.py
+Omri Leizerovitch
+Assignment in my 1st semester Computer Science
+Program: Minesweeper.py
 """
 import random
 class MSSquare:
